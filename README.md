@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently working with lua and haskell
+- 🤔 I am welcoming suggestions on the code i'm writing, tips or ideas
+
 
 <!--
 **CoreBlender/CoreBlender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
