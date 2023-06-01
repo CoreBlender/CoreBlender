@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently working with lua, haskell, zig, rust, go, and full-stack-development, dev-ops, assembly, c++
+- 🌱 I’m currently learning lua, haskell, zig, rust, go, and full-stack-development, dev-ops, assembly, c++
 - 🤔 I am welcoming suggestions on the code i'm writing, tips or ideas
 
 
