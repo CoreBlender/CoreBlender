@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently working with lua and haskell
+- 🌱 I’m currently working with [lua,haskell]
 - 🤔 I am welcoming suggestions on the code i'm writing, tips or ideas
 
 
