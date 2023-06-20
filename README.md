@@ -16,4 +16,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Programs I use
+Raspbery Pi Imager
+Blender
+Godot Engine
+Kitty?
+Discord
+Firefox
 -->
