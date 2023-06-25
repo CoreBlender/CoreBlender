@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 Programs I use
 Raspbery Pi Imager
 Blender
-Godot Engine
-Kitty?
 Discord
 Firefox
 -->
