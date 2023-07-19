@@ -1,8 +1,4 @@
-### Hi there 👋
-- 🌱 I’m currently learning programming languages
-- 🤔 I am welcoming suggestions on the code i'm writing, tips or ideas
-
-
+### Hi there, welcome to my github page 👋
 <!--
 **CoreBlender/CoreBlender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,9 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Programs I use
-Raspbery Pi Imager
-Blender
-Discord
-Firefox
 -->
